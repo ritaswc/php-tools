@@ -1,0 +1,19 @@
+{
+    "name": "ritaswc/tools",
+    "description": "Base And Common PHP Functions and Classes",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ritaswc\\Tools\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "charles",
+            "email": "ritaswc@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
